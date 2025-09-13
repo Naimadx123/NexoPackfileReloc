@@ -1,0 +1,7 @@
+name: NexoPackfileReloc
+version: '1.0.0'
+main: zone.vao.nexoPackfileReloc.NexoPackfileReloc
+api-version: '1.21'
+authors: [ Naimad (discord: 4g0) ]
+depend:
+  - Nexo
